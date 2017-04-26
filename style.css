@@ -37,6 +37,7 @@ table, th, td {
 }
 img {
   margin: 50px;
+  margin-right: 40px;
   border-style: solid;
   border-color: black;
   width: 100px
