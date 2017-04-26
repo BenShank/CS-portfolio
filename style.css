@@ -36,10 +36,8 @@ table, th, td {
     border: 1px solid black;
 }
 img {
-  margin: 50px;
+  margin: 40px;
   margin-right: 40px;
   border-style: solid;
   border-color: black;
-  width: 100px
-  height:100px
 }
